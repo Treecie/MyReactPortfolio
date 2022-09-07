@@ -3,7 +3,7 @@ let resumeData = {
     "name": "Talia Williams",
     "role": "Full Stack Developer",
     "linkedinId": "Your LinkedIn Id",
-    "skypeid": "Your skypeid",
+    
     "roleDescription": "",
     "socialLinks": [
       {
@@ -13,7 +13,7 @@ let resumeData = {
       },
       {
         "name": "github",
-        "url": "http://",
+        "url": "https://github.com/Treecie",
         "className": "fa fa-github"
       },
       {
@@ -24,7 +24,7 @@ let resumeData = {
     ],
     "aboutme": "I am a Full Stack Developer ",
     "address": "Dearborn Heights, MI",
-    "website": "https:// /",
+    "website": "https://github.com/Treecie /",
     "education": [
       {
         "UniversityName": "Michigan State University",
@@ -34,20 +34,16 @@ let resumeData = {
         "Achievements": "Certificate"
       },
       {
-        "UniversityName": "",
-        "specialization": "",
-        "MonthOfPassing": "",
-        "YearOfPassing": "",
-        "Achievements": ""
+        "UniversityName": "Henry Ford Community College",
+        "specialization": "Liberal Arts",
+        
       }
     ],
     "work": [
       {
-        "CompanyName": "",
-        "specialization": "",
-        "MonthOfLeaving": "",
-        "YearOfLeaving": "",
-        "Achievements": ""
+        "CompanyName": "Amrock",
+        "specialization": "Appraisal Communication Specialist",
+       
         /* <li>
           <p></p>
         </li>
@@ -63,13 +59,7 @@ let resumeData = {
         </li>
       </ul> */
       },
-      {
-        "CompanyName": "",
-        "specialization": "",
-        "MonthOfLeaving": "",
-        "YearOfLeaving": "",
-        "Achievements": ""
-      }
+
     ],
     "skillsDescription": "",
     "skills": [
@@ -80,47 +70,47 @@ let resumeData = {
         "skillname": "CSS"
       },
       {
-        "skillname": ""
+        "skillname": "MySQL"
       }
     ],
     "portfolio": [
       {
-        "name": "",
+        "name": "Read Me Generator",
         "description": "",
-        "imgurl": "./images/.png",
+        "imgurl": "./images/Readme.jpg",
         "imglink": "https://"
       },
       {
-        "name": "",
-        "description": "",
-        "imgurl": "./images/.png",
-        "imglink": "https://"
-  
-      },
-      {
-        "name": "",
-        "description": "",
-        "imgurl": "./images/.png",
+        "name": "Coding Quiz",
+        "description": "Coding Quiz",
+        "imgurl": "./images/CodingQuiz.jpg",
         "imglink": "https://"
   
       },
       {
-        "name": "",
+        "name": "Weather",
         "description": "",
-        "imgurl": "",
+        "imgurl": "./images/Weather.jpg",
+        "imglink": "https://"
+  
+      },
+      {
+        "name": "Workday Scheduler",
+        "description": "",
+        "imgurl": "./images/Workday.jpg",
         "imglink": ""
   
       },{
-        "name": "",
+        "name": "Horiseon",
         "description": "",
-        "imgurl": "./images/.png",
+        "imgurl": "./images/Horiseon.png",
         "imglink": ""
   
       },
       {
-        "name": "First Portfolio Page",
+        "name": "Lernantino",
         "description": "",
-        "imgurl": "./images/.png",
+        "imgurl": "./images/lernantino.png",
         "imglink": ""
   
       }
