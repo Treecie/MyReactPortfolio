@@ -75,9 +75,9 @@ let resumeData = {
     ],
     "portfolio": [
       {
-        "name": "Read Me Generator",
+        "name": "My Portfolio",
         "description": "",
-        "imgurl": "./images/Readme.jpg",
+        "imgurl": "./images/fattyfoods.jpg",
         "imglink": "https://"
       },
       {
